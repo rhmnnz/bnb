@@ -23,5 +23,8 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.1"
+  },
+ "homespage" "https://github.com/rhmnnz/bnb.git"
+  "source": "https://github.com/rhmnnz/bnb.git"
+  "source": "https://github.com/rhmnnz/bnb"
   }
-}
